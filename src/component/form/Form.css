@@ -1,0 +1,17 @@
+.form {}
+
+.create-form {
+    .label {}
+
+    .input {}
+
+    .button {}
+}
+
+.update-form {
+    .label {}
+
+    .input {}
+
+    .button {}
+}
